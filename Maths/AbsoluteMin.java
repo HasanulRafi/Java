@@ -15,7 +15,7 @@ public class AbsoluteMin {
     int[] numbers = {3, -10, -2};
     System.out.println("absMin(" + Arrays.toString(numbers) + ") = " + absMin(numbers));
   }
-
+//main part
   /**
    * get the value, returns the absolute min value min
    *
